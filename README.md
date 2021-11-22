@@ -1,8 +1,1 @@
-# ideal-enigma
-
-
-class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
+This is just a test for our second assignment at internet engineering class.
