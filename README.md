@@ -1,2 +1,2 @@
 # Hello world!
-This is jusy a test for my homework number2 .
+This is just a test for my homework number2 .
