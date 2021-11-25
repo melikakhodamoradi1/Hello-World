@@ -1,1 +1,1 @@
-Melika Khodamoradi melikakhoamoradi1 [project](https://github.com/melikakhodamoradi1/Hello-World.git)
+This is just a test project for our second exersise at IE class.
